@@ -51,5 +51,5 @@ Some of the key findings from the analysis include:
 - **Sales trends indicate peak seasons** for music purchases.
 
 ## 📬 Contact
-For any questions or suggestions, feel free to connect via **[LinkedIn](https://www.linkedin.com/in/its-ekanshi/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** profile.
+For any questions or suggestions, feel free to connect via **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** profile.
 
