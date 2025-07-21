@@ -26,19 +26,13 @@ The analysis covers multiple business aspects, including:
 5. **Employee performance and sales impact**
 6. **Regional sales distribution**
 
-## 📂 Project Structure
-```
-├── SQL Queries
-│   ├── sales_analysis.sql
-│   ├── customer_insights.sql
-│   ├── employee_performance.sql
-│   ├── genre_popularity.sql
-│   ├── revenue_trends.sql
-├── Documentation
-│   ├── Music_Store_Analysis_Questions.pdf
-│   ├── schema_diagram.png
-├── README.md
-```
+## 💡 Skills Applied
+
+- SQL Joins and Subqueries  
+- Group By, Order By, Having clauses  
+- Aggregate functions (SUM, COUNT, AVG)  
+- Filtering, Aliasing, and CASE statements  
+- Writing optimized and readable queries
 
 ## 📌 Entity Relationship Diagram
 ![Schema Diagram](schema_diagram.png)
@@ -51,5 +45,5 @@ Some of the key findings from the analysis include:
 - **Sales trends indicate peak seasons** for music purchases.
 
 ## 📬 Contact
-For any questions or suggestions, feel free to connect via **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** profile.
-
+**[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** 
+**[GitHub](https://github.com/its-ekanshi/)** 
